@@ -3,10 +3,8 @@ package example
 import "fmt"
 
 func ExampleFAQ() {
-	a := 5
-	b := a * 5
-	fmt.Print(b)
+	fmt.Print("Hello wolrd")
 
 	// Output:
-	// 25
+	// Hello wolrd
 }
